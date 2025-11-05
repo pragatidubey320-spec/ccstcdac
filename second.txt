@@ -1,5 +1,3 @@
 This is the second text file.
 
 
-
-This is third text file
